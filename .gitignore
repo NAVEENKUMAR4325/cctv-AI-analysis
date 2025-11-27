@@ -1,0 +1,22 @@
+Virtual Environment
+
+venv/
+pycache/
+*.pyc
+
+Heavy Video Files
+
+input/
+output/
+*.mp4
+*.avi
+
+AI Models (They re-download automatically)
+
+*.pt
+*.bin
+*.safetensors
+
+Temporary files
+
+temp_frame.jpg

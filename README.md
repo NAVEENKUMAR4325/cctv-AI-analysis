@@ -192,18 +192,7 @@ This project is open for educational and non-commercial use.
 
 ## 🔧 Author
 
-Developed by **Naveen Kumar E** & Team.
+Developed by **Naveen Kumar E**
 
 ```
 
----
-
-If you want, I can also generate:
-✅ a banner image for your GitHub repo  
-✅ badges (Python version, YOLO version, CPU Optimized etc.)  
-✅ a cleaner professional version  
-or  
-✅ a README with GIF demo and screenshots  
-
-Just tell me!
-```

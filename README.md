@@ -1,10 +1,4 @@
-Below is the **complete README.md in perfect Markdown format**, ready to paste directly into your GitHub repository.
 
-Just copy everything **as-is**.
-
----
-
-```markdown
 # 📹 CCTV Object & Activity Detection (CPU Optimized)
 
 A real-time **Computer Vision system** for CCTV video analysis — capable of detecting people and vehicles, tracking their movement with unique IDs, and generating intelligent text descriptions of the scene.
@@ -69,7 +63,6 @@ Modifications added to prevent BLIP hallucinations:
 #### 📝 Text Output  
 Every time a new event happens, you see:
 
-```
 
 [AI REPORT @ 14:06:18]
 OBSERVATION: A person is walking up the stairs.
